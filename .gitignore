@@ -1,0 +1,12 @@
+# Large data files
+train.csv
+test.csv
+submission_sample.csv
+
+# Python virtual environment (optional but good)
+venv/
+.venv/
+oibc_venv
+
+# Python cache
+__pycache__/
